@@ -1,0 +1,15 @@
+.grid-container{
+display: grid;
+grid-template-columns: repeat(2, 950px);
+grid-auto-rows:minmax(150px, auto) ;
+grid-row-gap: 400px;
+}
+#hub{
+    color: orange;
+
+    color: white;
+}
+#end{
+    color: orange;
+}
+b
